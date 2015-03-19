@@ -1,0 +1,53 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Ejemplo_HubTile_Simple.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\Ejemplo_HubTile_Simple.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\Ejemplo_HubTile_Simple\obj\Debug\XapCacheFile.xml

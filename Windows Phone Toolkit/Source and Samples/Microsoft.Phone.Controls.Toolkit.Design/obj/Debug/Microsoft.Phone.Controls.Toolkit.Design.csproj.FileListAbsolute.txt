@@ -1,0 +1,28 @@
+C:\Users\Javi\Desktop\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll
+C:\Users\Javi\Desktop\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.pdb
+C:\Users\Javi\Desktop\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll.CodeAnalysisLog.xml
+C:\Users\Javi\Desktop\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll.lastcodeanalysissucceeded
+C:\Users\Javi\Desktop\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.Properties.Resources.resources
+C:\Users\Javi\Desktop\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Javi\Desktop\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Javi\Desktop\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll
+C:\Users\Javi\Desktop\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.Properties.Resources.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.csprojResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.csproj.GenerateResource.Cache
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.pdb
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll.CodeAnalysisLog.xml
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll.lastcodeanalysissucceeded
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.Properties.Resources.resources
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.csproj.GenerateResource.Cache
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Microsoft.Phone.Controls.Toolkit.Design\obj\Debug\Microsoft.Phone.Controls.Toolkit.Design.pdb

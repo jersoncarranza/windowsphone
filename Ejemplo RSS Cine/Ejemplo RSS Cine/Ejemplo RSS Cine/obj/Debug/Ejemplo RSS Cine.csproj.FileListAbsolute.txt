@@ -1,0 +1,39 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo RSS Cine.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo RSS Cine.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo_RSS_Cine.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo RSS Cine.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo RSS Cine.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo_RSS_Cine.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo RSS Cine.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo RSS Cine.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\Bin\Debug\Ejemplo_RSS_Cine.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\Ejemplo RSS Cine.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo RSS Cine\Ejemplo RSS Cine\Ejemplo RSS Cine\obj\Debug\XapCacheFile.xml

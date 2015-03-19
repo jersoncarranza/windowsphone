@@ -1,0 +1,51 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo_Tile.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Tile\Ejemplo Tile\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo_Tile.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo_Tile.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\XapCacheFile.xml
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\ApplicationIcon.png
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Background.png
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.dll
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile.pdb
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\AppManifest.xaml
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Properties\WMAppManifest.xml
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\Bin\Debug\Ejemplo Tile_Debug_AnyCPU.xap
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\App.g.cs
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\MainPage.g.cs
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.g.resources
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.dll
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\Ejemplo Tile.pdb
+D:\D\Jerson\Windows Phone\Ejemplo Tile Aplicación\Ejemplo Tile\Ejemplo Tile\obj\Debug\XapCacheFile.xml

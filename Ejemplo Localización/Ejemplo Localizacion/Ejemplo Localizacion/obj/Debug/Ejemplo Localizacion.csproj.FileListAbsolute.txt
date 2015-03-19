@@ -1,0 +1,36 @@
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Ejemplo Localizacion.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Ejemplo Localizacion.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Ejemplo_Localizacion_Debug_AnyCPU.xap
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\App.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\MainPage.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.g.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo_Localizacion.Resources.AppResources.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Ejemplo Localizacion.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Ejemplo Localizacion.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\Bin\Debug\Ejemplo_Localizacion_Debug_AnyCPU.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo_Localizacion.Resources.AppResources.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.csproj.GenerateResource.Cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\Ejemplo Localizacion.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Localización\Ejemplo Localizacion\Ejemplo Localizacion\obj\Debug\XapCacheFile.xml

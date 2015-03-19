@@ -1,0 +1,55 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Pagina2.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Pagina2.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Pagina2.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\XapCacheFile.xml
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\ApplicationIcon.png
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Background.png
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\AppManifest.xaml
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Properties\WMAppManifest.xml
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Bin\Debug\Ejemplo Navegacion. Tercera parte_Debug_AnyCPU.xap
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\App.g.cs
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\MainPage.g.cs
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Pagina2.g.cs
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.g.resources
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.dll
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\Ejemplo_Navegacion.Tercera_parte.pdb
+D:\D\Jerson\Windows Phone\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\Ejemplo Navegacion. Tercera parte\obj\Debug\XapCacheFile.xml

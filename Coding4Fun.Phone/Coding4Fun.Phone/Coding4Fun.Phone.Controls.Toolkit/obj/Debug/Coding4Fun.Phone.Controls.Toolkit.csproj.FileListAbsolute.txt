@@ -1,0 +1,67 @@
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.pdb
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\cs\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\es\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\de\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\it\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\ko\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\fr\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\ru\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\sk\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\TimeSpanPicker\TimeSpanPickerPage.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.g.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.cs.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.es.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.de.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.it.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.ko.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.fr.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.ru.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.sk.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\cs\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\es\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\de\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\it\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\ko\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\fr\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\ru\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\sk\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\cs\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\es\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\de\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\it\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\ko\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\fr\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\ru\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\sk\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\TimeSpanPicker\TimeSpanPickerPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.cs.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.es.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.de.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.it.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.ko.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.fr.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.ru.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.Properties.Resources.sk.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\cs\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\es\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\de\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\it\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\ko\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\fr\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\ru\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\sk\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls.Toolkit\obj\Debug\Coding4Fun.Phone.Controls.Toolkit.csproj.GenerateResource.Cache

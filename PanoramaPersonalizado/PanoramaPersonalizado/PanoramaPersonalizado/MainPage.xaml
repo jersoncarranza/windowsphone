@@ -1,0 +1,96 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="PanoramaPersonalizado.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800" 
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Black">
+
+        <!--Control Panorama-->
+        <controls:Panorama>
+            <controls:Panorama.Title>
+                <StackPanel x:Name="TitlePanel" Orientation="Horizontal" Margin="0,15,0,0">
+                    <Image x:Name="image" Height="160" Source="Imgs/Logo.png" Stretch="Fill" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="160" Margin="5,0,5,30" RenderTransformOrigin="0.5,0.5" />
+                    <TextBlock Text="Panorama" FontFamily="Segoe WP Black" Foreground="White" VerticalAlignment="Stretch"/>
+                    <TextBlock Text="Personalizado" FontFamily="Segoe WP Black" Foreground="Red"/>
+                </StackPanel>
+            </controls:Panorama.Title>
+
+            <!--Elemento Panorama uno-->
+            <controls:PanoramaItem Header="1º elemento">
+                <!--Lista de líneas dobles con ajuste de texto-->
+                <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Items}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Margin="0,0,0,17" Width="432" Height="78">
+                                <TextBlock Text="{Binding LineOne}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
+                                <TextBlock Text="{Binding LineTwo}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </controls:PanoramaItem>
+
+            <!--Elemento Panorama dos-->
+            <!--Use 'Orientation="Horizontal"' para habilitar un panel que dispuesto horizontalmente-->
+            <controls:PanoramaItem Header="2º elemento">
+                <!--Lista de líneas dobles con marcador de posición de imagen y ajuste de texto-->
+                <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Items}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
+                                <!--Reemplazar el rectángulo por la imagen-->
+                                <Rectangle Height="100" Width="100" Fill="#FFE5001b" Margin="12,0,9,0"/>
+                                <StackPanel Width="311">
+                                    <TextBlock Text="{Binding LineOne}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
+                                    <TextBlock Text="{Binding LineTwo}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </controls:PanoramaItem>
+
+            <!--Elemento Panorama tres-->
+            <!--Use 'Orientation="Horizontal"' para habilitar un panel que dispuesto horizontalmente-->
+            <controls:PanoramaItem>
+                <controls:PanoramaItem.HeaderTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="3º elemento" FontSize="60" />
+                            <Button Content="Test" Background="Red" Width="100" Height="100" BorderThickness="0" Click="Button_Click"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </controls:PanoramaItem.HeaderTemplate>
+                <!--Lista de líneas dobles con marcador de posición de imagen y ajuste de texto-->
+                <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Items}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
+                                <!--Reemplazar el rectángulo por la imagen-->
+                                <Rectangle Height="100" Width="100" Fill="#FFE5001b" Margin="12,0,9,0"/>
+                                <StackPanel Width="311">
+                                    <TextBlock Text="{Binding LineOne}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
+                                    <TextBlock Text="{Binding LineTwo}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </controls:PanoramaItem>
+
+        </controls:Panorama>
+    </Grid>
+</phone:PhoneApplicationPage>

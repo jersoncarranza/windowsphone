@@ -1,0 +1,44 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo Recordatorios.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo Recordatorios.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo_Recordatorios.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\XapCacheFile.xml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Recordatorios.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Recordatorio.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo Recordatorios.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo Recordatorios.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo_Recordatorios.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Recordatorio.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Recordatorios.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo Recordatorios.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo Recordatorios.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\Bin\Debug\Ejemplo_Recordatorios.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Recordatorio.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Recordatorios.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\Ejemplo Recordatorios.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Recordatorios\Ejemplo Recordatorios\Ejemplo Recordatorios\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,62 @@
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\ApplicationIcon.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Background.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo ListPicker.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo ListPicker.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\AppManifest.xaml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo_ListPicker.xap
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\App.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Basic.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\MainPage.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.g.resources
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\XapCacheFile.xml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Events.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Styles.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo ListPicker.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo ListPicker.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo_ListPicker.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Basic.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Events.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Styles.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo ListPicker.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo ListPicker.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Ejemplo_ListPicker.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Basic.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Events.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Styles.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\Ejemplo ListPicker.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ListPicker\Ejemplo ListPicker\Ejemplo ListPicker\obj\Debug\XapCacheFile.xml

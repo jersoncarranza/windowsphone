@@ -1,0 +1,141 @@
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ApplicationIcon.png
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Background.png
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.pdb
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.pdb
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.pdb
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Site.Controls.pdb
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\cs\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\de\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\es\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\fr\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\it\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ko\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ru\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\sk\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\App.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\MainPage.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\AboutItems.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Binding.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbleControls.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbles\ChatBubbles.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbles\ChatBubbleTextBoxes.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ColorControls.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorHexPicker.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorPicker.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorSlider.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ButtonControls.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Memory.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\MetroFlow.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Overlays.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Prompts.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\PromptStressTest.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Slider.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Timespan.g.i.cs
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.g.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.pdb
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\AppManifest.xaml
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.xap
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Site.Controls.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\cs\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\de\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\es\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\fr\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\it\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ko\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ru\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\sk\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\AboutItems.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Binding.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbleControls.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbles\ChatBubbles.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbles\ChatBubbleTextBoxes.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ColorControls.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorHexPicker.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorPicker.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorSlider.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ButtonControls.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Memory.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\MetroFlow.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Overlays.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Prompts.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\PromptStressTest.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Slider.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Timespan.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.pdb
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.TestApplication.xap
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Site.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.pdb
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Controls.pdb
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Coding4Fun.Phone.Site.Controls.pdb
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\cs\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\de\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\es\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\fr\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\it\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ko\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\ru\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\Bin\Debug\sk\Coding4Fun.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\AboutItems.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Binding.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbleControls.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbles\ChatBubbles.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ChatBubbles\ChatBubbleTextBoxes.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ColorControls.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorHexPicker.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorPicker.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Color\ColorSlider.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\ButtonControls.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Memory.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\MetroFlow.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Overlays.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Prompts.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\PromptStressTest.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Slider.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Samples\Timespan.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.dll
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\Coding4Fun.Phone.TestApplication.pdb
+D:\Disco Local D\Jerson\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.TestApplication\obj\Debug\XapCacheFile.xml

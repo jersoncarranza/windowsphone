@@ -1,0 +1,27 @@
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Demo_WP7_Navegacion.dll
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Demo_WP7_Navegacion.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Demo_WP7_Navegacion.xap
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Pagina1.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Pagina2.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Demo_WP7_Navegacion.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Demo_WP7_Navegacion.dll
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Demo_WP7_Navegacion.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Demo_WP7_Navegacion.dll
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Demo_WP7_Navegacion.pdb
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\Bin\Debug\Demo_WP7_Navegacion.xap
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Pagina1.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Pagina2.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Demo_WP7_Navegacion.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Demo_WP7_Navegacion.dll
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\Demo_WP7_Navegacion.pdb
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion. Primera Parte\Demo_WP7_Navegacion\Demo_WP7_Navegacion\obj\Debug\XapCacheFile.xml

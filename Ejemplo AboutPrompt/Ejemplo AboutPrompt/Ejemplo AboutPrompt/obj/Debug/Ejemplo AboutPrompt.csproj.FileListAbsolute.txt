@@ -1,0 +1,31 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Ejemplo AboutPrompt.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Ejemplo AboutPrompt.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Ejemplo_AboutPrompt.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Coding4Fun.Phone.Controls.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Coding4Fun.Phone.Controls.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\Ejemplo AboutPrompt.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\Ejemplo AboutPrompt.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\Ejemplo AboutPrompt.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\XapCacheFile.xml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\AboutPromptUserControl.g.i.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Ejemplo AboutPrompt.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Ejemplo AboutPrompt.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Ejemplo_AboutPrompt.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Bin\Debug\Coding4Fun.Phone.Controls.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\Ejemplo AboutPrompt.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\AboutPromptUserControl.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\Ejemplo AboutPrompt.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\Ejemplo AboutPrompt.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\Ejemplo AboutPrompt.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo AboutPrompt\Ejemplo AboutPrompt\Ejemplo AboutPrompt\obj\Debug\XapCacheFile.xml

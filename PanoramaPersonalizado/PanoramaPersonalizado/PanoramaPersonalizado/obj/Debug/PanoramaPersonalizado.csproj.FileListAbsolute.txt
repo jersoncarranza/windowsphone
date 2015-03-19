@@ -1,0 +1,45 @@
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.dll
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.pdb
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.xap
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.dll
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.pdb
+c:\users\javi\documents\visual studio 2010\Projects\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.dll
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.pdb
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\PanoramaPersonalizado.xap
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.g.resources
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.dll
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\PanoramaPersonalizado.pdb
+D:\Disco Local D\Jerson\Windows Phone\PanoramaPersonalizado\PanoramaPersonalizado\PanoramaPersonalizado\obj\Debug\XapCacheFile.xml

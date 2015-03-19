@@ -1,0 +1,48 @@
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\ApplicationIcon.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Background.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo CustomMessageBox.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo CustomMessageBox.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\AppManifest.xaml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo_CustomMessageBox.xap
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\App.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\MainPage.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.g.resources
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo CustomMessageBox.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo CustomMessageBox.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo_CustomMessageBox.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo CustomMessageBox.dll
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo CustomMessageBox.pdb
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Ejemplo_CustomMessageBox.xap
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.g.resources
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.dll
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\Ejemplo CustomMessageBox.pdb
+D:\Disco Local D\Jerson\Windows Phone\CustomMessageBox\Ejemplo CustomMessageBox\Ejemplo CustomMessageBox\obj\Debug\XapCacheFile.xml

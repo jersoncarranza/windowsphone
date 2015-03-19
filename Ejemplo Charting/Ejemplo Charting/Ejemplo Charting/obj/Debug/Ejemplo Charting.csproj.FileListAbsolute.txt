@@ -1,0 +1,53 @@
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\ApplicationIcon.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Background.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo Charting.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo Charting.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\AppManifest.xaml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo_Charting.xap
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\App.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\MainPage.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.g.resources
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\XapCacheFile.xml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\BarChart.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\LineChart.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\PieChart.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\obj\Debug\StyleBarChart.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Charting\Ejemplo Charting\Bin\Debug\System.Windows.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo Charting.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo Charting.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo_Charting.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\BarChart.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\LineChart.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\PieChart.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\StyleBarChart.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo Charting.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo Charting.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\Bin\Debug\Ejemplo_Charting.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\BarChart.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\LineChart.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\PieChart.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\StyleBarChart.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\Ejemplo Charting.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Charting\Ejemplo Charting\Ejemplo Charting\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,41 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Ejemplo ToggleSwitch.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Ejemplo ToggleSwitch.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Ejemplo_ToggleSwitch.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Ejemplo ToggleSwitch.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Ejemplo ToggleSwitch.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Ejemplo ToggleSwitch.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\XapCacheFile.xml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Basic.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Events.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Styles.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Ejemplo ToggleSwitch.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Ejemplo ToggleSwitch.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Ejemplo_ToggleSwitch.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Ejemplo ToggleSwitch.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Basic.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Events.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Styles.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Ejemplo ToggleSwitch.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Ejemplo ToggleSwitch.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\Ejemplo ToggleSwitch.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\Ejemplo ToggleSwitch\obj\Debug\XapCacheFile.xml

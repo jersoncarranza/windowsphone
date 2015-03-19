@@ -1,0 +1,38 @@
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\ApplicationIcon.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Background.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo Tiles Secundarios.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo Tiles Secundarios.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\AppManifest.xaml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo_Tiles_Secundarios.xap
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\App.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\MainPage.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.g.resources
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo Tiles Secundarios.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo Tiles Secundarios.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo_Tiles_Secundarios.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo Tiles Secundarios.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo Tiles Secundarios.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Bin\Debug\Ejemplo_Tiles_Secundarios.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\Ejemplo Tiles Secundarios.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\obj\Debug\XapCacheFile.xml

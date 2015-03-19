@@ -1,0 +1,25 @@
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.dll
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.pdb
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.xap
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+c:\users\javi\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.dll
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.pdb
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.xap
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.g.resources
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Disco Local D\Jerson\Windows Phone\HelloWorld\HelloWorld\HelloWorld\obj\Debug\XapCacheFile.xml

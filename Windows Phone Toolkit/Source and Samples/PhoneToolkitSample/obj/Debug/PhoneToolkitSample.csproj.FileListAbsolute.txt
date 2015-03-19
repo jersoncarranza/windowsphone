@@ -1,0 +1,250 @@
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\ApplicationIcon.png
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Background.png
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Delete.png
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Select.png
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.pdb
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\AppManifest.xaml
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.xap
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\cs\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\da\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\el\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\fi\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\hu\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\ja\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\ko\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\pl\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\ru\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\ResolveAssemblyReference.cache
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.g.resources
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.dll
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.pdb
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\XapCacheFile.xml
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\App.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\MainPage.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\AutoCompleteBoxSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\ContextMenuSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\DateTimeConvertersSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\DateTimePickerSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\PhoneTextBoxSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\ExpanderViewSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\GestureSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\HubTileSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\ListPickerSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\LockablePivotSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\LongListSelectorSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\MultiselectListSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample1.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample2.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\PerformanceProgressBarSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\PersonDetail.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\TiltEffectSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\ToggleSwitchSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\TransitionsSample.g.i.cs
+c:\a\PhoneToolkit\Public\PhoneToolkitSample\obj\Debug\Samples\WrapPanelSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\ApplicationIcon.png
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Background.png
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Delete.png
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Select.png
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.pdb
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\AppManifest.xaml
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.xap
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\cs\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\da\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\el\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\fi\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\hu\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\ja\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\ko\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\pl\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\ru\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\App.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\MainPage.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\AutoCompleteBoxSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ContextMenuSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\DateTimeConvertersSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\DateTimePickerSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PhoneTextBoxSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ExpanderViewSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\GestureSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\HubTileSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ListPickerSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\LockablePivotSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\LongListSelectorSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\MultiselectListSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample1.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample2.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PerformanceProgressBarSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PersonDetail.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\TiltEffectSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ToggleSwitchSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\TransitionsSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\WrapPanelSample.g.i.cs
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.g.resources
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.dll
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.pdb
+C:\Users\Javi\Desktop\Source and Samples\PhoneToolkitSample\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Delete.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Select.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\cs\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\da\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\el\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\fi\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\hu\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ja\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ko\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\pl\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ru\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\AutoCompleteBoxSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ContextMenuSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\DateTimeConvertersSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\DateTimePickerSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PhoneTextBoxSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ExpanderViewSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\GestureSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\HubTileSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ListPickerSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\LockablePivotSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\LongListSelectorSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\MultiselectListSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample1.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample2.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PerformanceProgressBarSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PersonDetail.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\TiltEffectSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ToggleSwitchSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\TransitionsSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\WrapPanelSample.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\es-ES\Microsoft.Xna.Framework.resources.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Delete.png
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Toolkit.Content\ApplicationBar.Select.png
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.pdb
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\PhoneToolkitSample.xap
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Xna.Framework.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\Microsoft.Xna.Framework.xml
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\cs\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\da\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\el\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\fi\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\hu\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ja\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ko\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\pl\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\ru\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\Bin\Debug\es-ES\Microsoft.Xna.Framework.resources.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\AutoCompleteBoxSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ContextMenuSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\DateTimeConvertersSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\DateTimePickerSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PhoneTextBoxSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ExpanderViewSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\GestureSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\HubTileSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ListPickerSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\LockablePivotSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\LongListSelectorSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\MultiselectListSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample1.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\NavigationTransitionSample2.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PerformanceProgressBarSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\PersonDetail.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\TiltEffectSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\ToggleSwitchSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\TransitionsSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\Samples\WrapPanelSample.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.dll
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\PhoneToolkitSample.pdb
+D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\PhoneToolkitSample\obj\Debug\XapCacheFile.xml

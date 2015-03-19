@@ -1,0 +1,154 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PhoneToolkitSample
+</name>
+</assembly>
+<members>
+<member name="M:PhoneToolkitSample.Samples.PerformanceProgressBarSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.ListPickerSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.AutoCompleteBoxSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.ToggleSwitchSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.WrapPanelSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.NavigationTransitionSample2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.TransitionsSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:PhoneToolkitSample.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:PhoneToolkitSample.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="M:PhoneToolkitSample.Samples.LongListSelectorSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.GestureSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsumWebsites.GetEnumerator">
+	<summary>
+ Enumerates the Words property.
+ </summary>
+	<returns>The enumerator.</returns>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsumWebsites.IEnumerable_GetEnumerator">
+	<summary>
+ Enumerates the Words property.
+ </summary>
+	<returns>The enumerator.</returns>
+</member><member name="T:PhoneToolkitSample.Data.LoremIpsumWebsites">
+	<summary>
+ A class to return a list of web page titles and addresses from lorem ipsum data.
+ </summary>
+</member><member name="M:PhoneToolkitSample.Extensions.Next``1(System.Random,System.Collections.Generic.IList{``0})">
+	<summary>
+ Return a random item from a list.
+ </summary>
+	<typeparam name="T">The item type.</typeparam>
+	<param name="rnd">The Random instance.</param>
+	<param name="list">The list to choose from.</param>
+	<returns>A randomly selected item from the list.</returns>
+</member><member name="T:PhoneToolkitSample.PublicGrouping`2">
+	<summary>
+ A class used to expose the Key property on a dynamically-created Linq grouping.
+ The grouping will be generated as an internal class, so the Key property will not
+ otherwise be available to databind.
+ </summary>
+	<typeparam name="TKey">The type of the key.</typeparam>
+	<typeparam name="TElement">The type of the items.</typeparam>
+</member><member name="M:PhoneToolkitSample.Samples.PersonDetail.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.NavigationTransitionSample1.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.DateTimePickerSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsum.GetParagraph(System.Int32)">
+	<summary>
+ Returns random lorem ipsum sentences combined into a single string.
+ </summary>
+	<param name="sentenceCount">The nunmber of sentences.</param>
+	<returns>The paragraph, composed of random sentences.</returns>
+</member><member name="P:PhoneToolkitSample.Data.LoremIpsum.Words">
+	<summary>
+ Return an alphabetized, lower-case list of lorem ipsum words.
+ </summary>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsum.GetWords(System.Int32,PhoneToolkitSample.Data.LoremIpsum.Capitalization)">
+	<summary>
+ Get a string composed of random lorem ipsum words. Will not end with punctuation.
+ </summary>
+	<param name="wordCount">Number of words.</param>
+	<param name="capitalization">How to capitalize the words.</param>
+	<returns></returns>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsum.GetEnumerator">
+	<summary>
+ Enumerates the Words property.
+ </summary>
+	<returns>The enumerator.</returns>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsum.IEnumerable_GetEnumerator">
+	<summary>
+ Enumerates the Words property.
+ </summary>
+	<returns>The enumerator.</returns>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsum.EnsureSentences">
+	<summary>
+ Reads the lorem ipsum sentences. Supplies some data in case reading fails, which
+ it will do at design time.
+ </summary>
+</member><member name="M:PhoneToolkitSample.Data.LoremIpsum.EnsureWords">
+	<summary>
+ Creates an alphabetized list of the words from the lorem ipsum text.
+ </summary>
+</member><member name="T:PhoneToolkitSample.Data.LoremIpsum">
+	<summary>
+ A class to return paragraphs of random sentences or a word list from lorem ipsum data.
+ </summary>
+</member><member name="M:PhoneToolkitSample.Samples.ContextMenuSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneToolkitSample.Samples.TiltEffectSample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

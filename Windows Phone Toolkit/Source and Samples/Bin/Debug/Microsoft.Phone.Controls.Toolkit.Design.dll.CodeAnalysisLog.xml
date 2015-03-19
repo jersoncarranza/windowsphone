@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="D:\Disco Local D\Jerson\Windows Phone\Windows Phone Toolkit\Source and Samples\Bin\Debug\Microsoft.Phone.Controls.Toolkit.Design.dll">
+   <Modules>
+    <Module Name="microsoft.phone.controls.toolkit.design.dll">
+     <Namespaces>
+      <Namespace Name="Microsoft.Phone.Controls.Design">
+       <Types>
+        <Type Name="PhoneTextBoxMetadata" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="AvoidUninstantiatedInternalClasses" Category="Microsoft.Performance" CheckId="CA1812" Status="Active" Created="2013-04-17 06:27:43Z" FixCategory="NonBreaking">
+           <Issue Certainty="75" Level="Warning">'PhoneTextBoxMetadata' es una clase interna de la que aparentemente nunca se crea una instancia. Si es así, quite el código del ensamblado. Si esta clase está destinada a contener sólo métodos estáticos, considere la posibilidad de agregar un constructor privado para evitar que el compilador genere un constructor de forma predeterminada.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUninstantiatedInternalClasses" Category="Microsoft.Performance" CheckId="CA1812">
+   <Name>Evitar las clases internas sin instancia</Name>
+   <Description>Se detectó una clase interna de la que aparentemente nunca se crea una instancia. Esta regla no intenta detectar la creación enlazada en tiempo de ejecución y generará falsos positivos si las instancias de un tipo se crean sólo de esta forma (por ejemplo, mediante Activator.CreateInstance o pasando el tipo como argumento a un constructor TypeConverter).</Description>
+   <Resolution Name="Default">{0} es una clase interna de la que aparentemente nunca se crea una instancia. Si es así, quite el código del ensamblado. Si esta clase está destinada a contener sólo métodos estáticos, considere la posibilidad de agregar un constructor privado para evitar que el compilador genere un constructor de forma predeterminada.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182265(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

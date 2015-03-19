@@ -1,0 +1,40 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo Alarma.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo Alarma.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo_Alarma.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\XapCacheFile.xml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Alarmas.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo Alarma.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo Alarma.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo_Alarma.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Alarmas.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo Alarma.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo Alarma.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\Bin\Debug\Ejemplo_Alarma.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Alarmas.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\Ejemplo Alarma.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo Alarma\Ejemplo Alarma\Ejemplo Alarma\obj\Debug\XapCacheFile.xml

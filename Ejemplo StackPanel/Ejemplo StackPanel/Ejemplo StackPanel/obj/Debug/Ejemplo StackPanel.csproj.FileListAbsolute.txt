@@ -1,0 +1,38 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo StackPanel.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo StackPanel.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo_StackPanel.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo StackPanel.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo StackPanel.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo_StackPanel.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo StackPanel.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo StackPanel.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\Bin\Debug\Ejemplo_StackPanel.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\Ejemplo StackPanel.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo StackPanel\Ejemplo StackPanel\Ejemplo StackPanel\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,11 @@
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.pdb
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls\obj\Debug\Coding4Fun.Phone.Controls.g.resources
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls\obj\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Javi\Desktop\Coding4Fun.Phone\Coding4Fun.Phone.Controls\obj\Debug\Coding4Fun.Phone.Controls.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Bin\Debug\Coding4Fun.Phone.Controls.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls\obj\Debug\Coding4Fun.Phone.Controls.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls\obj\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Coding4Fun.Phone\Coding4Fun.Phone\Coding4Fun.Phone.Controls\obj\Debug\Coding4Fun.Phone.Controls.pdb

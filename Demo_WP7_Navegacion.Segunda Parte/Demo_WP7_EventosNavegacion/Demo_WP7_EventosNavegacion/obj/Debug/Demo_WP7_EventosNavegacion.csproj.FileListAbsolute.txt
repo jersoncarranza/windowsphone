@@ -1,0 +1,41 @@
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.dll
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.xap
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.dll
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\XapCacheFile.xml
+C:\Users\Javi\documents\visual studio 2010\Projects\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Pagina2.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Pagina2.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.dll
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.pdb
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\Bin\Debug\Demo_WP7_EventosNavegacion.xap
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Pagina2.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.dll
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\Demo_WP7_EventosNavegacion.pdb
+D:\Disco Local D\Jerson\Windows Phone\Demo_WP7_Navegacion.Segunda Parte\Demo_WP7_EventosNavegacion\Demo_WP7_EventosNavegacion\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,41 @@
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Ejemplo Tiles.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Ejemplo Tiles.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Ejemplo_Tiles_Debug_AnyCPU.xap
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\App.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\MainPage.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.g.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo_Tiles.Resources.AppResources.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\XapCacheFile.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\CycleTile1.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\CycleTile2.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\ApplicationIcon.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\CycleTile1.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\CycleTile2.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Ejemplo Tiles.dll
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Ejemplo Tiles.pdb
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\AppManifest.xaml
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Properties\WMAppManifest.xml
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\Bin\Debug\Ejemplo_Tiles_Debug_AnyCPU.xap
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\App.g.cs
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\MainPage.g.cs
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.g.resources
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo_Tiles.Resources.AppResources.resources
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.csproj.GenerateResource.Cache
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.dll
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\Ejemplo Tiles.pdb
+D:\D\Jerson\Windows Phone\Ejemplo Tiles WP8\Ejemplo Tiles\Ejemplo Tiles\Ejemplo Tiles\obj\Debug\XapCacheFile.xml

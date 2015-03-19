@@ -1,0 +1,40 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo MemoryCounter.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo MemoryCounter.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo_MemoryCounter.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Coding4Fun.Phone.Controls.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\XapCacheFile.xml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\ApplicationIcon.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Background.png
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo MemoryCounter.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo MemoryCounter.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\AppManifest.xaml
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo_MemoryCounter.xap
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\App.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\MainPage.g.i.cs
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.g.resources
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.dll
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.pdb
+C:\Users\GEOVANNY\Documents\Windows Phone\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\XapCacheFile.xml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\ApplicationIcon.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Background.png
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo MemoryCounter.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo MemoryCounter.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\AppManifest.xaml
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Bin\Debug\Ejemplo_MemoryCounter.xap
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.csprojResolveAssemblyReference.cache
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\App.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\MainPage.g.cs
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.g.resources
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.dll
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\Ejemplo MemoryCounter.pdb
+D:\Disco Local D\Jerson\Windows Phone\Ejemplo MemoryCounter\Ejemplo MemoryCounter\Ejemplo MemoryCounter\obj\Debug\XapCacheFile.xml
